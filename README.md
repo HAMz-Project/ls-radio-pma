@@ -1,7 +1,7 @@
 # ls-radio for pma-voice
 
 ### Requirements
-* ESX (https://github.com/ESX-Org/es_extended)
+* ESX (https://github.com/esx-framework/esx-legacy)
 * mythic_notify (https://github.com/mythicrp/mythic_notify)
 * PMA-Voice (https://github.com/AvarianKnight/pma-voice)
 
